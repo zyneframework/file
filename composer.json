@@ -1,5 +1,5 @@
 {
-    "name": "zyneframework/locale",
+    "name": "zyneframework/file",
     "description": "Componente File do Framework Zyne",
     "type": "library",
     "license": "New BSD License",
